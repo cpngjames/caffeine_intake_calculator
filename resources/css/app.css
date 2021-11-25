@@ -1,0 +1,21 @@
+.btn-group{
+  white-space: nowrap;
+  width: 120px;
+}
+
+#intakeBox{
+ width:250px;
+}
+
+#amount{
+ width:250px;
+}
+
+.form-control{
+  height: 25px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
